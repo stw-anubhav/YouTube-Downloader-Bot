@@ -1,6 +1,6 @@
 # 🎬 YouTube Downloader Telegram Bot
 <p align="center">
-  <img src="LOGO.png" width="220" alt="Transfer Bot Logo">
+  <img src="img.png" width="220" alt="Transfer Bot Logo">
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)\
